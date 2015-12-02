@@ -1,0 +1,6 @@
+framework module Pods_DataRepresentation_Tests {
+  umbrella header "Pods-DataRepresentation_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

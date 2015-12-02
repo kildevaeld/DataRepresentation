@@ -1,0 +1,6 @@
+framework module DataRepresentation {
+  umbrella header "DataRepresentation-umbrella.h"
+
+  export *
+  module * { export * }
+}
